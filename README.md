@@ -19,8 +19,8 @@ Project Clone: https://hotstar.com
 
 We have created the clone of the Hotstar.com
 
-Deployment Link: https://our-hotstar-project-vijendrasaini.vercel.app
-Blog Link:- https://medium.com/@prsjwaldhoble2000/clone-of-website-hotstar-b6794bbc1e7d
+## Deployment Link: https://our-hotstar-project-vijendrasaini.vercel.app
+## Blog Link:- https://medium.com/@prsjwaldhoble2000/clone-of-website-hotstar-b6794bbc1e7d
 
 
 ### Project:-
